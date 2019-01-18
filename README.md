@@ -6,5 +6,3 @@
 - [Firebase Auth](https://firebase.google.com/products/auth/)
 - [ForgeRock](https://www.forgerock.com)
 - [Okta](https://www.okta.com/)
-- [OneLogin](https://www.onelogin.com)
-- [Ping Identity](https://www.pingidentity.com)
