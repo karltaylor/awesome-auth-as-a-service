@@ -6,4 +6,5 @@
 - [AWS Cognito](https://aws.amazon.com/cognito/)
 - [Firebase Auth](https://firebase.google.com/products/auth/)
 - [ForgeRock](https://www.forgerock.com)
+- [Kno](https://trykno.com)
 - [Okta](https://www.okta.com/)
