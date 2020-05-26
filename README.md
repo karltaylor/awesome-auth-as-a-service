@@ -8,3 +8,4 @@
 - [ForgeRock](https://www.forgerock.com)
 - [Kno](https://trykno.com)
 - [Okta](https://www.okta.com/)
+- [LoginRadius](https://loginradius.com/)
