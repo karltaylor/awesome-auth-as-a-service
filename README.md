@@ -6,6 +6,6 @@
 - [AWS Cognito](https://aws.amazon.com/cognito/)
 - [Firebase Auth](https://firebase.google.com/products/auth/)
 - [ForgeRock](https://www.forgerock.com)
-- ~[Kno](https://trykno.com)~ -> Became [Did](https://did.app)
+- ~[Kno](https://trykno.com)~ -> Became [DID.app](https://did.app)
 - [LoginRadius](https://loginradius.com/)
 - [Okta](https://www.okta.com/)
