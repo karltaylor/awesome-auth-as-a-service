@@ -9,3 +9,4 @@
 - ~[Kno](https://trykno.com)~ -> Became [Did](https://did.app)
 - [LoginRadius](https://loginradius.com/)
 - [Okta](https://www.okta.com/)
+- [Userbase](https://userbase.com/)
