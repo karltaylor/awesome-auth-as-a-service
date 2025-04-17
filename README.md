@@ -2,7 +2,6 @@
 
 - [0Auth.io](https://oauth.io/)
 - [Auth0](https://auth0.com/)
-- [AuthKit by WorkOS](https://www.authkit.com/)
 - [AuthRocket](https://authrocket.com/)
 - [AWS Cognito](https://aws.amazon.com/cognito/)
 - [Clerk](https://clerk.com/)
@@ -11,3 +10,5 @@
 - [LoginRadius](https://loginradius.com/)
 - [Okta](https://www.okta.com/)
 - [Userbase](https://userbase.com/)
+- [WorkOS](https://workos.com/)
+- [Descope](https://www.descope.com/)
