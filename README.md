@@ -7,7 +7,7 @@
 - [Clerk](https://clerk.com/)
 - [Descope](https://www.descope.com/)
 - [Firebase Auth](https://firebase.google.com/products/auth/)
-- [ForgeRock](https://www.forgerock.com)
+- [PingIdentity](https://www.pingidentity.com)
 - [LoginRadius](https://loginradius.com/)
 - [Okta](https://www.okta.com/)
 - [Userbase](https://userbase.com/)
