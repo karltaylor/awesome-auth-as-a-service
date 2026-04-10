@@ -5,6 +5,7 @@
 - [AuthRocket](https://authrocket.com/)
 - [AWS Cognito](https://aws.amazon.com/cognito/)
 - [Clerk](https://clerk.com/)
+- [Descope](https://www.descope.com/)
 - [Firebase Auth](https://firebase.google.com/products/auth/)
 - [ForgeRock](https://www.forgerock.com)
 - [LoginRadius](https://loginradius.com/)
