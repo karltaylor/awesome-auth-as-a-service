@@ -12,4 +12,3 @@
 - [Okta](https://www.okta.com/)
 - [Userbase](https://userbase.com/)
 - [WorkOS](https://workos.com/)
-- [Descope](https://www.descope.com/)
