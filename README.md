@@ -9,6 +9,7 @@
 - [Firebase Auth](https://firebase.google.com/products/auth/)
 - [PingIdentity](https://www.pingidentity.com)
 - [LoginRadius](https://loginradius.com/)
+- [Neon Auth](https://neon.com/docs/neon-auth/overview)
 - [Okta](https://www.okta.com/)
 - [Userbase](https://userbase.com/)
 - [WorkOS](https://workos.com/)
