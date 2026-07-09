@@ -23,7 +23,10 @@ Clerk is a developer-first authentication platform with pre-built UI components 
 Descope is a passwordless authentication and identity platform focused on secure authentication flows, MFA, passkeys, and enterprise identity management.
 
 ### [Firebase Auth](https://firebase.google.com/products/auth/)
-Firebase Authentication is Google's authentication service for web and mobile apps. It supports email/password login, social providers, phone authentication, and anonymous users.
+Firebase Authentication is Google's authentication service for web and mobile applications. It supports email/password authentication, social providers, phone authentication, anonymous users, and integrates with the wider Firebase ecosystem.
+
+### [Supabase Auth](https://supabase.com/auth)
+Supabase Auth is an open-source authentication service built on top of Postgres. It provides email/password authentication, magic links, OAuth providers, MFA, and integrates directly with Supabase databases and Row Level Security.
 
 ### [PingIdentity](https://www.pingidentity.com/)
 Ping Identity provides enterprise identity and access management solutions, including SSO, MFA, API security, and workforce/customer identity management.
@@ -45,7 +48,8 @@ WorkOS provides enterprise-grade identity infrastructure APIs, including SSO, di
 
 ## Related Categories
 
-- **Developer-first authentication:** Clerk, Descope, Auth0, Firebase Auth
-- **Enterprise identity:** Okta, PingIdentity, WorkOS
-- **Cloud-provider solutions:** AWS Cognito, Firebase Auth, Neon Auth
+- **Developer-first authentication:** Clerk, Descope, Auth0, Supabase Auth, Firebase Auth
+- **Enterprise identity:** Okta, PingIdentity, WorkOS, Auth0
+- **Cloud-provider solutions:** AWS Cognito, Firebase Auth, Supabase Auth, Neon Auth
+- **Open-source / developer-controlled:** Supabase Auth, Userbase
 - **Customer identity (CIAM):** LoginRadius, Auth0, Okta
