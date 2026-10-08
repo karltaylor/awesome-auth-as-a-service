@@ -47,7 +47,7 @@ Userbase provides simple user authentication and encrypted data storage for appl
 WorkOS provides enterprise-grade identity infrastructure APIs, including SSO, directory sync, audit logs, and user management features designed for SaaS applications.
 
 ### [Scalekit](https://www.scalekit.com/)
-Scalekit is an identity platform for B2B SaaS and AI agents. It provides SSO, SCIM, organisations, and sessions for your app, plus a tooling and auth layer so agents can call 400+ connectors with OAuth instead of static keys.
+Scalekit is an identity platform for B2B SaaS and AI agents. It provides SSO, SCIM, organisations, and sessions for your app. Scalekit's AgentKit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
 
 ## Related Categories
 
