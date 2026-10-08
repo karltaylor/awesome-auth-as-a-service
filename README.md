@@ -46,10 +46,13 @@ Userbase provides simple user authentication and encrypted data storage for appl
 ### [WorkOS](https://workos.com/)
 WorkOS provides enterprise-grade identity infrastructure APIs, including SSO, directory sync, audit logs, and user management features designed for SaaS applications.
 
+### [Scalekit](https://www.scalekit.com/)
+Scalekit is an identity platform for B2B SaaS and AI agents. It provides SSO, SCIM, organisations, and sessions for your app. Scalekit's AgentKit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
+
 ## Related Categories
 
-- **Developer-first authentication:** Clerk, Descope, Auth0, Supabase Auth, Firebase Auth
-- **Enterprise identity:** Okta, PingIdentity, WorkOS, Auth0
+- **Developer-first authentication:** Clerk, Descope, Auth0, Supabase Auth, Firebase Auth, Scalekit
+- **Enterprise identity:** Okta, PingIdentity, WorkOS, Auth0, Scalekit
 - **Cloud-provider solutions:** AWS Cognito, Firebase Auth, Supabase Auth, Neon Auth
 - **Open-source / developer-controlled:** Supabase Auth, Userbase
 - **Customer identity (CIAM):** LoginRadius, Auth0, Okta
